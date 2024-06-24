@@ -28,9 +28,7 @@ let addressesapi = [
 ];
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:443#t.me/AM_CLUBS',//官方优选域名
-	//'cloudflare.cfgo.cc:443#关注YouTube频道@AM_CLUB',
-	'visa.com:443#youtube.com/@AM_CLUB'
+
 ];
 
 let autoaddress = [
